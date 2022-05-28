@@ -21,6 +21,12 @@ Device: Xperia 5 II (Over 5G network)
 | Render | 17.6 ms | 17.7 ms |
 
 
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+
+
 # 3D model
 ![screenshot](./screenshot.png)
 
