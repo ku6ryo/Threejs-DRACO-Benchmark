@@ -6,19 +6,19 @@ Conclusion: Rendering time is not affected by DRACO compression. However, the lo
 
 | | W/O DRACO | W/ DRACO |
 ---|---|---|---
-File size | 18 MB | 10 MB
+| File size | 18 MB | 10 MB |
 
 Device: iPhone 11 (WiFi)
 | | W/O DRACO | W/ DRACO |
 ---|---|---|---
-Model Load | 1496.4 ms | 1210.2 ms
-Render | 21.5 ms |  21.3 ms
+| Model Load | 1496.4 ms | 1210.2 ms |
+| Render | 21.5 ms |  21.3 ms |
 
 Device: Xperia 5 II (Over 5G network)
 | | W/O DRACO | W/ DRACO |
 ---|---|---|---
-Model Load | 1793.3 ms | 1335.7 ms |
-Render | 17.6 ms | 17.7 ms |
+| Model Load | 1793.3 ms | 1335.7 ms |
+| Render | 17.6 ms | 17.7 ms |
 
 
 # 3D model
