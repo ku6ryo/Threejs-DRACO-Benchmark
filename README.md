@@ -4,9 +4,9 @@ Compared the load time and the render time of a DRACO compressed model and an un
 
 Conclusion: Rendering time is not affected by DRACO compression. However, the load time is shorten by DRACO compress because of the size reduction by DRACO. The render time is the average of 500 runs. The load time is the average of 5 runs. If we have many models and the total file size of our models is large, the load time should be improved. Please not that DRACO is for vertex data and not for textrures. So if you have texture heavy models but the vertex is not heavy, DRACO compression will not work.
 
-| | WO DRACO | W DRACO |
-| --- | --- | --- | --- |
-| File size | 18 MB | 10 MB |
+|           | WO DRACO | W DRACO |
+| ---       | ---      | ---     |
+| File size | 18 MB    | 10 MB   |
 
 Device: iPhone 11 (WiFi)
 | Param | WO DRACO | W DRACO |
